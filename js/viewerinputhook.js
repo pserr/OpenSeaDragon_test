@@ -115,12 +115,12 @@
      * @property {Number} revision - The revision number.
      */
     /* jshint ignore:start */
-    $.ViewerInputHook.version = {
-        versionStr: '<%= viewerinputhookVersion.versionStr %>',
-        major: <%= viewerinputhookVersion.major %>,
-        minor: <%= viewerinputhookVersion.minor %>,
-        revision: <%= viewerinputhookVersion.revision %>
-    };
+    // $.ViewerInputHook.version = {
+    //     versionStr: '<%= viewerinputhookVersion.versionStr %>',
+    //     major: <%= viewerinputhookVersion.major %>,
+    //     minor: <%= viewerinputhookVersion.minor %>,
+    //     revision: <%= viewerinputhookVersion.revision %>
+    // };
     /* jshint ignore:end */
 
 
